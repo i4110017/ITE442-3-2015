@@ -29,6 +29,7 @@ insert into project values('Newbenefits', 30, 'Stafford', 4);
 insert into works_on values('123456789', 1, 32.5);
 insert into works_on values('123456789', 2, 7.5);
 insert into works_on values('333445555', 3, 10);
+insert into works_on values('333445555', 2, 10);
 insert into works_on values('333445555', 10, 10);
 insert into works_on values('333445555', 20, 10);
 
